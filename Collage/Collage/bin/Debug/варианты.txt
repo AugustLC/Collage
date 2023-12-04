@@ -1,0 +1,17 @@
+0 root c
+i root images/1.jpg
+r r1 root
+c c1 r1
+i c1 images/2.jpg
+i c1 images/1.jpg
+c c2 r1
+i c2 images/2.jpg
+i c2 images/1.jpg
+
+
+
+0 root r
+i root images/1.jpg
+c c1 root
+i c1 images/2.jpg
+i c1 images/3.jpg
